@@ -1,0 +1,14 @@
+D:\Code Academy\CSharpProect\CSharpProect\obj\Debug\netcoreapp3.1\CSharpProect.csproj.AssemblyReference.cache
+D:\Code Academy\CSharpProect\CSharpProect\obj\Debug\netcoreapp3.1\CSharpProect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\CSharpProect\CSharpProect\obj\Debug\netcoreapp3.1\CSharpProect.AssemblyInfoInputs.cache
+D:\Code Academy\CSharpProect\CSharpProect\obj\Debug\netcoreapp3.1\CSharpProect.AssemblyInfo.cs
+D:\Code Academy\CSharpProect\CSharpProect\obj\Debug\netcoreapp3.1\CSharpProect.csproj.CoreCompileInputs.cache
+D:\Code Academy\CSharpProect\CSharpProect\bin\Debug\netcoreapp3.1\CSharpProect.exe
+D:\Code Academy\CSharpProect\CSharpProect\bin\Debug\netcoreapp3.1\CSharpProect.deps.json
+D:\Code Academy\CSharpProect\CSharpProect\bin\Debug\netcoreapp3.1\CSharpProect.runtimeconfig.json
+D:\Code Academy\CSharpProect\CSharpProect\bin\Debug\netcoreapp3.1\CSharpProect.runtimeconfig.dev.json
+D:\Code Academy\CSharpProect\CSharpProect\bin\Debug\netcoreapp3.1\CSharpProect.dll
+D:\Code Academy\CSharpProect\CSharpProect\bin\Debug\netcoreapp3.1\CSharpProect.pdb
+D:\Code Academy\CSharpProect\CSharpProect\obj\Debug\netcoreapp3.1\CSharpProect.dll
+D:\Code Academy\CSharpProect\CSharpProect\obj\Debug\netcoreapp3.1\CSharpProect.pdb
+D:\Code Academy\CSharpProect\CSharpProect\obj\Debug\netcoreapp3.1\CSharpProect.genruntimeconfig.cache
